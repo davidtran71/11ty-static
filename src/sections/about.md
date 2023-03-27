@@ -1,6 +1,6 @@
 ---
-title: AWE.SOME Heading
+title: What is this product?
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+Hey so this is a simple landing page template
